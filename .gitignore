@@ -4,7 +4,3 @@ __pycache__/
 /cache
 /config
 *.bac
-
-config.ini
-course.gbk.csv
-course.utf-8.csv
